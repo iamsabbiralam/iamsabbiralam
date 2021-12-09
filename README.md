@@ -1,4 +1,5 @@
 ## Hey  There I'm Sabbir Alam
+![Profile views](https://gpvc.arturio.dev/iamsabbiralam)
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsabbiralam/"><img alt="Linkedin" title="iamsabbiralam" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/iamsabbiralam"><img alt="Github" title="iamsabbiralam" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -82,9 +83,12 @@
 </p>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamsabbiralam) 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamsabbiralam)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true&count_private=true)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true"/>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsabbiralam)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamsabbiralam)
