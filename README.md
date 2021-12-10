@@ -87,8 +87,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true&count_private=true)
+![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true&theme=radical)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsabbiralam)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamsabbiralam)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iamsabbiralam)
