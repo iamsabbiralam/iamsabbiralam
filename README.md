@@ -14,11 +14,11 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Back-end Development ;
-- 🌱 I’m currently learning Go Language ; 
+- 👨🏽‍💻 I’m currently working on Back-end Development.
+- 🌱 I’m currently learning Go Language.
 - 👯 I’m looking to collaborate with Fullstack Web Developers.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help.
 
 ## 🛠️ My Skills
 
