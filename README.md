@@ -88,7 +88,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamsabbiralam)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true&theme=radical) 
 
