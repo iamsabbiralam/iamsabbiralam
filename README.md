@@ -1,5 +1,6 @@
 ## Hey  There I'm Sabbir Alam
-![Profile views](https://gpvc.arturio.dev/iamsabbiralam)
+![](https://komarev.com/ghpvc/?username=iamsabbiralam&color=green)
+
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsabbiralam/"><img alt="Linkedin" title="iamsabbiralam" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/iamsabbiralam"><img alt="Github" title="iamsabbiralam" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -88,15 +89,15 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamsabbiralam)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true&theme=transparent)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamsabbiralam)  
+[![Sabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsabbiralam&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![Sabbir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamsabbiralam)](https://github.com/anuraghazra/github-readme-stats)
+
