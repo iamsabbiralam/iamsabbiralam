@@ -1,5 +1,8 @@
-## Hey  There I'm Sabbir Alam
+## Hey There I'm Sabbir Alam
+
 ![](https://komarev.com/ghpvc/?username=iamsabbiralam&color=green)
+
+![](https://waka_507a6c4f-bce5-421b-8bb2-c5f13f5d8337/api/badge?style=${style}&color=${color}&label=${label})
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsabbiralam/"><img alt="Linkedin" title="iamsabbiralam" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -11,8 +14,6 @@
 <hr/>
 <h4 align="left">I'm a self-disciplined person, intention-orientated and reliable. I have a detailed mind, am very bendy, and continually prioritize my purchaser in particular else. I make certain all tasks are given complete consideration to the desires and results as directed through the consumer. Loving a project and, as a fantastically organized and equipped operator, I will make sure that my projects are successfully completed in the time allotted. allow me to help with <b>HTML,</b> <b>CSS,</b> <b>Core PHP,</b> <b>Laravel,</b> <b>Go Language.</b></h4>
 
-  
-  
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on Back-end Development.
@@ -39,6 +40,7 @@
 </p>
 
 ### 👉 Frameworks and Libraries
+
 <p align="left"> 
 &emsp;
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
@@ -56,6 +58,7 @@
 </p>
 
 ### 👉 Operating Systems
+
 <p align="left"> 
 &emsp;
 <a href="https://www.kali.org"> 
@@ -67,6 +70,7 @@
 </p>
 
 ### 👉 Databases & Cloud Hosting
+
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -75,7 +79,8 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
     </a>
 
- ### 👉 Software & Tools
+### 👉 Software & Tools
+
 <p align="left">
   &emsp;
 <a href="https://git-scm.com"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
@@ -86,18 +91,15 @@
 <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </p>
 
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=iamsabbiralam)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsabbiralam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
 ![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsabbiralam&show_icons=true&theme=transparent)
-
 
 [![Sabbir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamsabbiralam&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-[![Sabbir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iamsabbiralam)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://wakatime.com/@iamsabbiralam/">
+        <img width="70%" src="https://github-readme-stats.vercel.app/api/wakatime?username=iamsabbiralam&hide_progress=false&layout=compact&custom_title=Wakatime%20last%20year%20Stats"
+            alt="Sabbir's wakatime last year stats">
+    </a>
