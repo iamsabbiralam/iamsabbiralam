@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=iamsabbiralam&color=green)
 
-![](https://waka_507a6c4f-bce5-421b-8bb2-c5f13f5d8337/api/badge?style=${style}&color=${color}&label=${label})
+<a href="https://wakatime.com/@192bdb84-f575-4883-8fa5-d6f67c4f945b"><img src="https://wakatime.com/badge/user/192bdb84-f575-4883-8fa5-d6f67c4f945b.svg" alt="Total time coded since Jul 27 2023" /></a>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsabbiralam/"><img alt="Linkedin" title="iamsabbiralam" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
